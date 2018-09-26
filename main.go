@@ -6,5 +6,5 @@ func main() {
 	fmt.Println("dsds")
 	i := 4
 	i += i
-	i = 12
+	i = 1255
 }
