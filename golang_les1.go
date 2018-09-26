@@ -21,9 +21,11 @@
 		Symbols:
 			rune (16 ричное )(uint16) ex: 'a'
 		Strings:
-			string ex: `a` or "a"
+			string ex: `a` or "a"   ! `` doesnt read unicode symbols
 				1) \a \b etc...
-				2)
+				2)\u \x \o
+
+
 
 
 
