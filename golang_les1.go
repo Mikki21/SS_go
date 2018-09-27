@@ -59,7 +59,7 @@ type point struct {
 }
 
 func main() {
-
+	var y = true
 	//p := point{1, 2}
-	fmt.Printf("%s\n", "\"string\"")
+	fmt.Printf("%t\n", y)
 }
